@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# primo
+Rails lab (first application)
+>>>>>>> 9e5f0d6b84b532c737fe4dc75c14f4d3773d3070
